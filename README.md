@@ -3,12 +3,21 @@ This is a simple front-end project that demonstrates basic JavaScript DOM manipu
 
 
 🔧 Features
+
     Clean and modern user interface
+    
     Add new items with a button click
+    
     Highlight list items with hover effects
+    
     Responsive layout with centered container
     
+    
 🛠 Tech Stack
+
     HTML5
+    
     CSS3
+    
     JavaScript
+    
